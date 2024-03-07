@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Flutter senior Capstone project with Verity.<br>👯 I’m looking to collaborate on more front-end projects. <br>🌱 I’m currently learning Flutter and Dart.<br>⚡ I love making art! 
+🔭 I’m currently working on a Flutter Senior Capstone project with Verity.<br>👯 I’m looking to collaborate on more front-end projects. <br>🌱 I’m currently learning Flutter and Dart.<br>⚡ I love making art! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/noosrat-rahman) 
 
